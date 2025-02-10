@@ -1,1 +1,2 @@
-# ece343_assesment_ch03a
+# ECE343 Ch 03a Assessment Problem 1
+![graph](./wave.gif)
